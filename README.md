@@ -11,3 +11,4 @@
 - **8th January 2026:** Max Dot Product Of Two Subsequences
 - **9th January 2026:** Smallest Subtree With All The Deepest Nodes
 - **10th January 2026:** Minimum ASCII Delete Sum for Two Strings
+- **11th January 2026:** Maximal Rectangle
