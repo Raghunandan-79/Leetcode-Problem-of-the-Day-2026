@@ -12,4 +12,5 @@
 - **9th January 2026:** Smallest Subtree With All The Deepest Nodes
 - **10th January 2026:** Minimum ASCII Delete Sum for Two Strings
 - **11th January 2026:** Maximal Rectangle
-- **12th January 2026:** Minimum Time Visiting All Points 
+- **12th January 2026:** Minimum Time Visiting All Points
+- **13th January 2026:** Separate Squares 1 
