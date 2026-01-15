@@ -15,3 +15,4 @@
 - **12th January 2026:** Minimum Time Visiting All Points
 - **13th January 2026:** Separate Squares 1 
 - **14th January 2026:** Separate Squared 2
+- **15th January 2026:** Maximize Area of Square Hole in Grid
