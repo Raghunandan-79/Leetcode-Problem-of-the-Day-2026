@@ -19,3 +19,4 @@
 - **16th January 2026:** Maximum Square Area by Removing Fences From a Field
 - **17th January 2026:** Find the Largest Area of Square Inside Two Rectangles
 - **18th January 2026:** Largest Magic Square
+- **19th January 2026:** Maximum Side Length of a Square with Sum Less than or Equal to Threshold
