@@ -21,3 +21,4 @@
 - **18th January 2026:** Largest Magic Square
 - **19th January 2026:** Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - **20th January 2026:** Construct the Minimum Bitwise Array 1
+- **21st January 2026:** Construct the Minimum Bitwise Array 2
