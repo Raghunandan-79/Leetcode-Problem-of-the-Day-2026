@@ -23,3 +23,4 @@
 - **20th January 2026:** Construct the Minimum Bitwise Array 1
 - **21st January 2026:** Construct the Minimum Bitwise Array 2
 - **22nd January 2026:** Minimum Pair Removal to Sort Array 1
+- **23rd January 2026:** Minimum Pair Removal to Sort Array 2
