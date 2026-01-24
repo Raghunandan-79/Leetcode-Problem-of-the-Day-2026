@@ -24,3 +24,4 @@
 - **21st January 2026:** Construct the Minimum Bitwise Array 2
 - **22nd January 2026:** Minimum Pair Removal to Sort Array 1
 - **23rd January 2026:** Minimum Pair Removal to Sort Array 2
+- **24th January 2026:** Minimize Maximum Pair Sum in Array
