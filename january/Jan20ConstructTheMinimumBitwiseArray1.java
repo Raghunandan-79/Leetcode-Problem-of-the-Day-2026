@@ -24,6 +24,7 @@ public class Jan20ConstructTheMinimumBitwiseArray1 {
         }
     }
 
+    // Driver code - This should not be submitted to leetcode
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

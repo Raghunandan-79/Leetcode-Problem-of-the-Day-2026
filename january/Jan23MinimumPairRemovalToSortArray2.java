@@ -108,6 +108,7 @@ public class Jan23MinimumPairRemovalToSortArray2 {
         }
     }
 
+    // Driver code - This should not be submitted to leetcode
     public static void main(String[] args) {
         Solution solution = new Jan23MinimumPairRemovalToSortArray2().new Solution();
         int[] nums = {5, 2, 3, 1};
