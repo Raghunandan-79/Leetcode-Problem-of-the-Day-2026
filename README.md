@@ -25,3 +25,4 @@
 - **22nd January 2026:** Minimum Pair Removal to Sort Array 1
 - **23rd January 2026:** Minimum Pair Removal to Sort Array 2
 - **24th January 2026:** Minimize Maximum Pair Sum in Array
+- **25th January 2026:** Minimum Difference Between Highest and Lowest of K Scores
