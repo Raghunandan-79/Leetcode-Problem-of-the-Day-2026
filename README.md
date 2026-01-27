@@ -27,3 +27,4 @@
 - **24th January 2026:** Minimize Maximum Pair Sum in Array
 - **25th January 2026:** Minimum Difference Between Highest and Lowest of K Scores
 - **26th January 2026:** Minimum Absolute Difference
+- **27th January 2026:** Minimum Cost Path with Edge Reversals
