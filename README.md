@@ -28,3 +28,4 @@
 - **25th January 2026:** Minimum Difference Between Highest and Lowest of K Scores
 - **26th January 2026:** Minimum Absolute Difference
 - **27th January 2026:** Minimum Cost Path with Edge Reversals
+- **28th January 2026:** Minimum Cost Path with Teleportations
