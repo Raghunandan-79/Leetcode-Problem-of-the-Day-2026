@@ -29,3 +29,4 @@
 - **26th January 2026:** Minimum Absolute Difference
 - **27th January 2026:** Minimum Cost Path with Edge Reversals
 - **28th January 2026:** Minimum Cost Path with Teleportations
+- **29th January 2026:** Minimum Cost to Convert String 1
