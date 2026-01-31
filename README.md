@@ -31,3 +31,4 @@
 - **28th January 2026:** Minimum Cost Path with Teleportations
 - **29th January 2026:** Minimum Cost to Convert String 1
 - **30th January 2026:** Minimum Cost to Convert String 2
+- **31st January 2026:** Find Smallest Letter Greater Than Target
