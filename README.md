@@ -32,3 +32,6 @@
 - **29th January 2026:** Minimum Cost to Convert String 1
 - **30th January 2026:** Minimum Cost to Convert String 2
 - **31st January 2026:** Find Smallest Letter Greater Than Target
+
+## February 2026:
+- **1st February 2026:** Divide an Array Into Subarrays With Minimum Cost 1
