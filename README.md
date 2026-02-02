@@ -35,3 +35,4 @@
 
 ## February 2026:
 - **1st February 2026:** Divide an Array Into Subarrays With Minimum Cost 1
+- **2nd February 2026:** Divide an Array Into Subarrays With Minimum Cost 2
