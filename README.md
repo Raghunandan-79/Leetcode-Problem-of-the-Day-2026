@@ -37,3 +37,4 @@
 - **1st February 2026:** Divide an Array Into Subarrays With Minimum Cost 1
 - **2nd February 2026:** Divide an Array Into Subarrays With Minimum Cost 2
 - **3rd February 2026:** Trionic Array 1
+- **4th February 2026:** Trionic Array 2
