@@ -40,3 +40,4 @@
 - **4th February 2026:** Trionic Array 2
 - **5th February 2026:** Transformed Array
 - **6th February 2026:** Minimum Removals to Balance Array
+- **7th February 2026:** Minimum Deletions to Make String Balanced

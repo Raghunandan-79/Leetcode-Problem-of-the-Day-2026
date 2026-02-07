@@ -3,7 +3,7 @@ package february;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Feb5MinimumRemovalsToBalanceArray {
+public class Feb6MinimumRemovalsToBalanceArray {
     class Solution {
         public int minRemoval(int[] nums, int k) {
             int n = nums.length;
@@ -39,7 +39,7 @@ public class Feb5MinimumRemovalsToBalanceArray {
 
         int k = scanner.nextInt();
 
-        Solution solution = new Feb5MinimumRemovalsToBalanceArray().new Solution();
+        Solution solution = new Feb6MinimumRemovalsToBalanceArray().new Solution();
         System.out.println(solution.minRemoval(nums, k));
 
         scanner.close();

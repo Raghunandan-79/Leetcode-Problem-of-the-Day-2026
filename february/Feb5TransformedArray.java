@@ -2,7 +2,7 @@ package february;
 
 import java.util.Scanner;
 
-public class Feb4TransformedArray {
+public class Feb5TransformedArray {
     class Solution {
         public int[] constructTransformedArray(int[] nums) {
             int n = nums.length;
@@ -21,6 +21,7 @@ public class Feb4TransformedArray {
         }
     }
 
+    // Driver code - this should not be submitted to leetcode
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
@@ -30,7 +31,7 @@ public class Feb4TransformedArray {
             nums[i] = scanner.nextInt();
         }
 
-        Solution solution = new Feb4TransformedArray().new Solution();
+        Solution solution = new Feb5TransformedArray().new Solution();
         for (int num : solution.constructTransformedArray(nums)) {
             System.out.print(num + " ");
         }
