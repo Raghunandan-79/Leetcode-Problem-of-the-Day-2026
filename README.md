@@ -44,3 +44,4 @@
 - **8th February 2026:** Balanced Binary Tree
 - **9th February 2026:** Balance a Binary Search Tree
 - **10th February 2026:** Longest Balanced Subarray 1
+- **11th February 2026:** Longest Balanced Subarray 2
