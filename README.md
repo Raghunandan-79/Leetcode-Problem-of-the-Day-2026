@@ -46,3 +46,4 @@
 - **10th February 2026:** Longest Balanced Subarray 1
 - **11th February 2026:** Longest Balanced Subarray 2
 - **12th February 2026:** Longest Balanced Substring 1
+- **13th February 2026:** Longest Balanced Substring 2
