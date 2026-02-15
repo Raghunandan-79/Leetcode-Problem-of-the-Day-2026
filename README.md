@@ -47,3 +47,5 @@
 - **11th February 2026:** Longest Balanced Subarray 2
 - **12th February 2026:** Longest Balanced Substring 1
 - **13th February 2026:** Longest Balanced Substring 2
+- **14th February 2026:** Champagne Tower
+- **15th February 2026:** Add Binary
