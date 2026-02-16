@@ -49,3 +49,4 @@
 - **13th February 2026:** Longest Balanced Substring 2
 - **14th February 2026:** Champagne Tower
 - **15th February 2026:** Add Binary
+- **16th February 2026:** Reverse Bits
