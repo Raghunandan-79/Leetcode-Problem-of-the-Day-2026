@@ -50,3 +50,4 @@
 - **14th February 2026:** Champagne Tower
 - **15th February 2026:** Add Binary
 - **16th February 2026:** Reverse Bits
+- **17th February 2026:** Binary Watch

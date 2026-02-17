@@ -29,6 +29,7 @@ public class Feb17BinaryWatch {
         }
     }
 
+    // Driver code - this should not be submitted to leetcode
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int turnedOn = scanner.nextInt();
