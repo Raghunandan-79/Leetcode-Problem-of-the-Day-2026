@@ -51,3 +51,4 @@
 - **15th February 2026:** Add Binary
 - **16th February 2026:** Reverse Bits
 - **17th February 2026:** Binary Watch
+- **18th January 2026:** Binary Number with Alternating Bits
