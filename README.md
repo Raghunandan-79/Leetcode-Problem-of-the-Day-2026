@@ -53,3 +53,4 @@
 - **17th February 2026:** Binary Watch
 - **18th February 2026:** Binary Number with Alternating Bits
 - **19th February 2026:** Count Binary Substrings
+- **20th February 2026:** Special Binary String
