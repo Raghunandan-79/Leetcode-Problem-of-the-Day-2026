@@ -55,3 +55,4 @@
 - **19th February 2026:** Count Binary Substrings
 - **20th February 2026:** Special Binary String
 - **21st February 2026:** Prime Number of Set Bits in Binary Representation
+- **22nd February 2026:** Binary Gap
