@@ -57,3 +57,4 @@
 - **21st February 2026:** Prime Number of Set Bits in Binary Representation
 - **22nd February 2026:** Binary Gap
 - **23rd February 2026:** Check If a String Contains All Binary Codes of Size K
+- **24th February 2026:** Sum of Root To Leaf Binary Numbers
