@@ -60,3 +60,4 @@
 - **24th February 2026:** Sum of Root To Leaf Binary Numbers
 - **25th February 2026:** Sort Integers by The Number of 1 Bits
 - **26th February 2026:** Number of Steps to Reduce a Number in Binary Representation to One
+- **27th February 2026:** Minimum Operations to Equalize Binary String
