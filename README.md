@@ -61,3 +61,7 @@
 - **25th February 2026:** Sort Integers by The Number of 1 Bits
 - **26th February 2026:** Number of Steps to Reduce a Number in Binary Representation to One
 - **27th February 2026:** Minimum Operations to Equalize Binary String
+- **28th February 2026:** Concatenation of Consecutive Binary Numbers
+
+## March 2026:
+- **1st March 2026:** Partitioning Into Minimum Number Of Deci-Binary Numbers
