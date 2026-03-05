@@ -67,3 +67,5 @@
 - **1st March 2026:** Partitioning Into Minimum Number Of Deci-Binary Numbers
 - **2nd March 2026:** Minimum Swaps to Arrange a Binary Grid
 - **3rd March 2026:** Find Kth Bit in Nth Binary String
+- **4th March 2026:** Special Positions in a Binary Matrix
+- **5th March 2026:** Minimum Changes To Make Alternating Binary String
