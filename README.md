@@ -70,3 +70,4 @@
 - **4th March 2026:** Special Positions in a Binary Matrix
 - **5th March 2026:** Minimum Changes To Make Alternating Binary String
 - **6th March 2026:** Check if Binary String Has at Most One Segment of Ones
+- **7th March 2026:** Minimum Number of Flips to Make the Binary String Alternating
