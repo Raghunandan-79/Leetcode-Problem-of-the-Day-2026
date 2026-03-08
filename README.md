@@ -71,3 +71,4 @@
 - **5th March 2026:** Minimum Changes To Make Alternating Binary String
 - **6th March 2026:** Check if Binary String Has at Most One Segment of Ones
 - **7th March 2026:** Minimum Number of Flips to Make the Binary String Alternating
+- **8th March 2026:** Find Unique Binary String
