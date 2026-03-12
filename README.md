@@ -75,3 +75,4 @@
 - **9th March 2026:** Find All Possible Stable Binary Arrays 1
 - **10th March 2026:** Find All Possible Stable Binary Arrays 2
 - **11th March 2026:** Complement of Base 10 Integer
+- **12th March 2026:** Maximize Spanning Tree Stability with Upgrades
