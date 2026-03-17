@@ -80,3 +80,4 @@
 - **14th March 2026:** The k-th Lexicographical String of All Happy Strings of Length n
 - **15th March 2026:** Fancy Sequence
 - **16th March 2026:** Get Biggest Three Rhombus Sums in a Grid
+- **17th March 2026:** Largest Submatrix With Rearrangements
