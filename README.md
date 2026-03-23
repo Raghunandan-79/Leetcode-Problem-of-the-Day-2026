@@ -85,3 +85,5 @@
 - **19th March 2026:** Count Submatrices With Equal Frequency of X and Y
 - **20th March 2026:** Minimum Absolute Difference in Sliding Submatrix
 - **21st March 2026:** Flip Square Submatrix Vertically
+- **22nd March 2026:** Determine Whether Matrix Can Be Obtained By Rotation
+- **23rd March 2026:** Maximum Non Negative Product in a Matrix
