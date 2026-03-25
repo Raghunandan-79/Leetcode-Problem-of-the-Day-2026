@@ -88,3 +88,4 @@
 - **22nd March 2026:** Determine Whether Matrix Can Be Obtained By Rotation
 - **23rd March 2026:** Maximum Non Negative Product in a Matrix
 - **24th March 2026:** Construct Product Matrix
+- **25th March 2026:** Equal Sum Grid Partition I
