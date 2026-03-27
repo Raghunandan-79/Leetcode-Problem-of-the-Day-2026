@@ -90,3 +90,4 @@
 - **24th March 2026:** Construct Product Matrix
 - **25th March 2026:** Equal Sum Grid Partition 1
 - **26th March 2026:** Equal Sum Grid Partition 2
+- **27th March 2026:** Matrix Similarity After Cyclic Shifts
