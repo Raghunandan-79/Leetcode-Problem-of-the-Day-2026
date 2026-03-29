@@ -92,3 +92,4 @@
 - **26th March 2026:** Equal Sum Grid Partition 2
 - **27th March 2026:** Matrix Similarity After Cyclic Shifts
 - **28th March 2026:** Find the String with LCP
+- **29th March 2026:** Check if Strings Can be Made Equal With Operations 1
