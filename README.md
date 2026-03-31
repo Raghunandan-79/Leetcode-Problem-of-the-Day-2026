@@ -94,3 +94,4 @@
 - **28th March 2026:** Find the String with LCP
 - **29th March 2026:** Check if Strings Can be Made Equal With Operations 1
 - **30th March 2026:** Check if Strings Can be Made Equal With Operations 2
+- **31st March 2026:** Lexicographically Smallest Generated String
