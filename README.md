@@ -95,3 +95,6 @@
 - **29th March 2026:** Check if Strings Can be Made Equal With Operations 1
 - **30th March 2026:** Check if Strings Can be Made Equal With Operations 2
 - **31st March 2026:** Lexicographically Smallest Generated String
+
+## April 2026:
+- **1st April 2026:** Robot Collisions
