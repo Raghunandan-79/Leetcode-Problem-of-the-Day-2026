@@ -98,3 +98,4 @@
 
 ## April 2026:
 - **1st April 2026:** Robot Collisions
+- **2nd April 2026:** Maximum Amount of Money Robot Can Earn
