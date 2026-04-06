@@ -101,3 +101,4 @@
 - **2nd April 2026:** Maximum Amount of Money Robot Can Earn
 - **3rd April 2026:** Maximum Walls Destroyed by Robots
 - **4th April 2026:** Decode the Slanted Ciphertext
+- **5th April 2026:** Walking Robot Simulation
