@@ -102,3 +102,4 @@
 - **3rd April 2026:** Maximum Walls Destroyed by Robots
 - **4th April 2026:** Decode the Slanted Ciphertext
 - **5th April 2026:** Walking Robot Simulation
+- **6th April 2026:** Walking Robot Simulation 2
