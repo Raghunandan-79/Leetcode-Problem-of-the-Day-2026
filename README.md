@@ -103,4 +103,5 @@
 - **4th April 2026:** Decode the Slanted Ciphertext
 - **5th April 2026:** Walking Robot Simulation
 - **6th April 2026:** Walking Robot Simulation 2
-- **7th April 2026:** XOR After Range Multiplication Queries 1
+- **8th April 2026:** XOR After Range Multiplication Queries 1
+- **9th April 2026:** XOR After Range Multiplication Queries 2
