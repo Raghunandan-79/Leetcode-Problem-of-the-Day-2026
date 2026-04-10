@@ -105,3 +105,4 @@
 - **6th April 2026:** Walking Robot Simulation 2
 - **8th April 2026:** XOR After Range Multiplication Queries 1
 - **9th April 2026:** XOR After Range Multiplication Queries 2
+- **10th April 2026:** Minimum Distance Between Three Equal Elements 1
