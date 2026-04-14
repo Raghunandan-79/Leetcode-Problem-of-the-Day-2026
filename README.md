@@ -109,3 +109,4 @@
 - **11th April 2026:** Minimum Distance Between Three Equal Elements 2
 - **12th April 2026:** Minimum Distance to Type a Word Using Two Fingers
 - **13th April 2026:** Minimum Distance to the Target Element
+- **14th April 2026:** Minimum Total Distance Traveled
