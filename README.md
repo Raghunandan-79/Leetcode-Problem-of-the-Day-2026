@@ -110,3 +110,4 @@
 - **12th April 2026:** Minimum Distance to Type a Word Using Two Fingers
 - **13th April 2026:** Minimum Distance to the Target Element
 - **14th April 2026:** Minimum Total Distance Traveled
+- **15th April 2026:** Shortest Distance to Target String in a Circular Array
