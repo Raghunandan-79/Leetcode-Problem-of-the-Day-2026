@@ -111,3 +111,4 @@
 - **13th April 2026:** Minimum Distance to the Target Element
 - **14th April 2026:** Minimum Total Distance Traveled
 - **15th April 2026:** Shortest Distance to Target String in a Circular Array
+- **16th April 2026:** Closest Equal Element Queries
