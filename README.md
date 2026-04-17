@@ -112,3 +112,4 @@
 - **14th April 2026:** Minimum Total Distance Traveled
 - **15th April 2026:** Shortest Distance to Target String in a Circular Array
 - **16th April 2026:** Closest Equal Element Queries
+- **17th April 2026:** Minimum Absolute Distance Between Mirror Pairs
