@@ -114,3 +114,4 @@
 - **16th April 2026:** Closest Equal Element Queries
 - **17th April 2026:** Minimum Absolute Distance Between Mirror Pairs
 - **18th April 2026:** Mirror Distance of an Integer
+- **19th April 2026:** Maximum Distance Between a Pair of Values
