@@ -116,3 +116,4 @@
 - **18th April 2026:** Mirror Distance of an Integer
 - **19th April 2026:** Maximum Distance Between a Pair of Values
 - **20th April 2026:** Two Furthest Houses With Different Colors
+- **21st Aprtil 2026:** Minimize Hamming Distance After Swap Operations
