@@ -120,3 +120,4 @@
 - **22nd April 2026:** Words Within Two Edits of Dictionary
 - **23rd April 2026:** Sum of Distances
 - **24th April 2026:** Furthest Point From Origin
+- **25th April 2026:** 
