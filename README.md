@@ -123,3 +123,4 @@
 - **25th April 2026:** Maximize the Distance Between Points on a Square
 - **26th April 2026:** Detect Cycles in 2D Grid
 - **27th April 2026:** Check if There is a Valid Path in a Grid
+- **28th April 2026:** Minimum Operations to Make a Uni-Value Grid
