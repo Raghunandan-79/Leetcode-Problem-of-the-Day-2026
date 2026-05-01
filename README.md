@@ -125,3 +125,6 @@
 - **27th April 2026:** Check if There is a Valid Path in a Grid
 - **28th April 2026:** Minimum Operations to Make a Uni-Value Grid
 - **29th APril 2026:** Maximum Score From Grid Operations
+
+## May 2026:
+- **1st May 2026:** Rotate Function
