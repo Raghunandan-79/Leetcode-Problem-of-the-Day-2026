@@ -128,3 +128,4 @@
 
 ## May 2026:
 - **1st May 2026:** Rotate Function
+- **2nd May 2026:** Rotated Digits
