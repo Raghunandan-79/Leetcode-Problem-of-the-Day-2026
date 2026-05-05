@@ -130,3 +130,4 @@
 - **1st May 2026:** Rotate Function
 - **2nd May 2026:** Rotated Digits
 - **3rd May 2026:** Rotate String
+- **4th May 2026:** Rotate List
