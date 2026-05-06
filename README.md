@@ -131,3 +131,4 @@
 - **2nd May 2026:** Rotated Digits
 - **3rd May 2026:** Rotate String
 - **4th May 2026:** Rotate List
+- **5th May 2026:** Rotating the Box
