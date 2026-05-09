@@ -133,3 +133,4 @@
 - **5th May 2026:** Rotate List
 - **6th May 2026:** Rotating the Box
 - **7th May 2026:** Jump Game IX
+- **9th May 2026:** Cyclically Rotating a Grid
